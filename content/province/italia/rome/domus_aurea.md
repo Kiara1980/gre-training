@@ -48,7 +48,7 @@ Garden of the Domus Aurea \
 <!-- -->
 ### Keywords
 <!-- -->
-- [brick (construction material)](http://vocab.getty.edu/page/aat/300010463)
+- [brick and paper (construction material)](http://vocab.getty.edu/page/aat/300010463)
 - [colonnade](http://vocab.getty.edu/page/aat/300002613)
 - [cryptoporticus](http://vocab.getty.edu/page/aat/300004295)
 - [domus](http://vocab.getty.edu/page/aat/300005506)
